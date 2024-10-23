@@ -4,8 +4,8 @@ SQL, or **Structured Query Language**, is a standard programming language used 
 
 # Introduction To Database
 
-- Database Normalization
 - Definition And History
+- Database Normalization
 
 ---
 # Introduction To DataBase
