@@ -55,7 +55,8 @@ SQL, or **Structured Query Language**, is a standard programming language used 
     3. Client wrap SQL statement in TDS message and sent it
     4. Protocol layer unwrap the TDS Message → CMD Parser
 
-![Screenshot 2024-10-22 at 11.24.57 AM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ac8d2e56-c643-48fc-af41-f14c17164785/e7e0de83-e2ec-435a-9580-0eb8072d8fa7/Screenshot_2024-10-22_at_11.24.57_AM.png)
+![Screenshot 2024-10-22 at 11 24 57 AM](https://github.com/user-attachments/assets/c573bbe0-b09d-4d5a-8e04-1d693c9a9350)
+
 
 1. CMD Parser statement valid step (6), else return error
 2. if plan is cached, pass it to query executer step (9)
