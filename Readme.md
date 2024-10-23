@@ -70,3 +70,16 @@ SQL, or **Structured Query Language**, is a standard programming language used 
 10. Query Executer will return the result to SNI server
 11. SNI server wrap the output in a TDS Package
 ---
+
+
+## Page:
+
+[SQL Guide](https://www.notion.so/SQL-122cfab8a8898019ad1ec23267526f60?pvs=4)
+
+---
+
+## Author
+🔥 **Medhat Assem** 🔥
+
+> Please Leave Start if you learn something or you like this guide line and thank you for reading ❤️
+>
