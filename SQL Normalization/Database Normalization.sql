@@ -59,9 +59,10 @@ GO
 CREATE TABLE PM.ProjectTechnology(
     PRJNO INT FOREIGN KEY REFERENCES PM.Projects(PRJNO) NOT NULL,
     TechnologyId INT FOREIGN KEY REFERENCES PM.Technology(Id) NOT NULL,
-    PRIMARY KEY(PRJNO)
 )
 GO
+
+
 
 -------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------
