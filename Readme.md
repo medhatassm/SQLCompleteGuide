@@ -2,12 +2,13 @@
 
 SQL, or **Structured Query Language**, is a standard programming language used to manage and manipulate relational databases,SQL is widely used for database management in various applications due to its ease of use and efficiency in handling relational data.
 
-# Introduction To Database
+# Database Guide Content
 
 - Definition And History
 - Database Normalization
 - Data Manipulation
 - Database Indexes
+- Procedure, Functions And Views
 
 ---
 # Introduction To DataBase
