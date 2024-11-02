@@ -9,6 +9,7 @@ SQL, or **Structured Query Language**, is a standard programming language used 
 - Data Manipulation
 - Database Indexes
 - Procedure, Functions And Views
+- SQL Queries Exercises [(50) Querstions](https://www.notion.so/SQL-Queries-Exercises-12fcfab8a889803d922aecb79fde36eb?pvs=4)
 
 ---
 # Introduction To DataBase
