@@ -130,7 +130,7 @@
 
 **Q30 ⇒** Create a select statement that outputs the following
 
-![Screenshot 2024-11-02 at 1.52.43 PM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ac8d2e56-c643-48fc-af41-f14c17164785/e7e32dbb-40ba-48f9-a0f6-239dc6c65775/Screenshot_2024-11-02_at_1.52.43_PM.png)
+![Screenshot 2024-11-02 at 1 52 43 PM](https://github.com/user-attachments/assets/c19f6d4e-0053-4134-8dd7-cd59acf6c9d2)
 
 ---
 
